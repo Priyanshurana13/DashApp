@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Dashboard using Dash and Plotly 
-@author: Prakhar
 """
 
 #importing modules 
